@@ -2,6 +2,11 @@
 
 JSON
 {
+  "system": {
   "system_title": "App 2.0",
-  "status": "CRITICAL"
+   "system_version": "2.5"
+  },
+  "settings": {
+    "status": "WARNING"
+  }
 }
